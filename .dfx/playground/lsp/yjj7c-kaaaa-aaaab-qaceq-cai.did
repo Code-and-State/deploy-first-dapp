@@ -1,0 +1,4 @@
+service : {
+  changeMessage: (text) -> ();
+  seeMessage: () -> (text) query;
+}
