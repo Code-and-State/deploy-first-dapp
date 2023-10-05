@@ -1,6 +1,6 @@
 {
   "name": "icp-motoko",
-  "image": "docker.pkg.github.com/Code-and-State/icp-dev-containers/icp-motoko:latest",
+  "image": "ghcr.io/Code-and-State/icp-dev-containers/icp-motoko:latest",
   "customizations": {
     "vscode": {
       "extensions": ["dfinity-foundation.vscode-motoko"]
