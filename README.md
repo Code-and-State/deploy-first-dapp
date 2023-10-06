@@ -42,20 +42,24 @@ You can use this environment in two ways:
 
 ## Structure of the repository
 
-This repository contains 2 folders:
+This repository contains 4 folders:
 
 - **.devcontainer:** This folder contains the configuration of the Dev Container. You don't need to change anything here.
+- **assets**: This folder contains assets that are used in the tutorials. You don't need to change anything here.
+- **tutorials**: This folder contains the tutorials. You don't need to change anything but you need to read them to follow this tutorial.
 - **src:** This folder contains the source code of the dApps. You will read and write your code here.
 
 Other files include:
 
-- **devcontainer-template.json**: Another configuration file for the Dev Container.
-- **LICENSE.md:** The license of this repository.
 - **README.md:** This file.
+- **LICENSE.md:** The license of this repository.
+- **devcontainer-template.json**: Another configuration file for the Dev Container.
+- **.gitingore:** A configuration file that tells **Git** which files to ignore.
 - **dfx.json**: The configuration file for using `dfx` which is a tool we will use to deploy our applications on the Internet Computer.
 
 ## Part 1: Use the Demo dApp.
-
+This tutorial is avaiable [here](./tutorials/PART-1.MD)
 ## Part 2: Write your own dApp.
-
-## Part 3: Test your dApp and join us at Motoko Bootcamp for a full week of learning!
+This tutorial is avaiable [here](./tutorials/PART-2.MD)
+## Part 3: Test your dApp and join us for a full week of learning!
+This tutorial is avaiable [here](./tutorials/PART-3.MD)
