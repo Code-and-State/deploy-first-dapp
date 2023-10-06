@@ -1,6 +1,6 @@
-# Motoko Bootcamp - Deploy your first dApp in 5 minutes!
+# Motoko Bootcamp - Deploy your first dApp in 90 minutes!
 
-> Welcome to **Motoko Bootcamp**. This is a guided tutorial to help you deploy your first application on the Internet Computer in 5 minutes. You don't need any prior setup or configuration to use this repository. A GitHub account and Internet connection will be enough.
+> Welcome to **Motoko Bootcamp**. This is a guided tutorial to help you deploy your first application on the Internet Computer in 90 minutes. You don't need any prior setup or configuration to use this repository. A GitHub account and Internet connection will be enough.
 
 ## Join me for a chat on the blockchain and get showcased on on the Wall of Fame 😎
 
