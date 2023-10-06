@@ -32,3 +32,16 @@ Define an `update` function called `setCounter` that takes an argument called `n
 setCounter : shared (n : Nat) -> async ();
 ```
 ## Deploy your dApp to the Internet Computer
+To deploy your canister, we will use the `dfx` command line tool again. Simply run the following.
+```
+$ dfx deploy --playground first_dapp
+```
+
+Note the canister id of your application and move to the next part.
+## Interact with your dApp
+The url to access the **Candid** interface for your canister is the following: `https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=<YOUR_CANISTER_ID>`
+
+<p align="center"> <img src="../assets/part-2/candid_ui.png" style="border: 1px solid black;"/> </p>
+<p align="center"> </p>
+
+You should see all of the public functions that we have defined. Try calling them and check what happens.

@@ -15,7 +15,7 @@ The concept of **canisters** is fundamental to understand how to build dApps on 
   - When you read content on a website hosted on the Internet Computer.
   - And way more...
 
-<p align="center"> <img src="./assets/part-1/oc_message.png" height="600px" style="border: 1px solid black;"/> </p>
+<p align="center"> <img src="../assets/part-1/oc_message.png" height="600px" style="border: 1px solid black;"/> </p>
 <p align="center"> OpenChat is a decentralized messaging application built on the Internet Computer. </p>
 
 At its core, a canister consists of two key components: a WebAssembly module and memory:
@@ -28,11 +28,11 @@ At its core, a canister consists of two key components: a WebAssembly module and
 ## The Motoko language
 **Motoko** is a new language that was developed by the [DFINITY Foundation](https://dfinity.org/) to develop canisters. The **Motoko** language is a high-level language that is compiled to WebAssembly.
 
-<p align="center"> <img src="./assets/part-1/motoko_banner.png" style="border: 1px solid black;"/> </p>
+<p align="center"> <img src="../assets/part-1/motoko_banner.png" style="border: 1px solid black;"/> </p>
 
 The **Motoko** file is the file that contains the code of your application. It has the extension `.mo`. 
 
-<p align="center"> <img src="./assets/part-1/motoko_file.png" style="border: 1px solid black;"/> </p>
+<p align="center"> <img src="../assets/part-1/motoko_file.png" style="border: 1px solid black;"/> </p>
 
 
 You will notice that this file usually starts with the `actor` keyword:
@@ -98,7 +98,7 @@ Reserved canister 'demo' with id yjj7c-kaaaa-aaaab-qaceq-cai with the playground
 The **Candid** interface allows us to call our canister and interact with it. <br/>
 The url to access the **Candid** interface for your canister is the following: `https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=<YOUR_CANISTER_ID>`
 
-<p align="center"> <img src="./assets/part-1/candid_ui.png" style="border: 1px solid black;"/> </p>
+<p align="center"> <img src="../assets/part-1/candid_ui.png" style="border: 1px solid black;"/> </p>
 <p align="center"> The Candid UI can be used to call any public function of your canister</p>
 
 > Test calling `changeMessage` and `setMessage` and notice the difference in speed.
