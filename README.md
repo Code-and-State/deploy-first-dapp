@@ -5,9 +5,7 @@
 ## Join me for a chat on the blockchain and get showcased on on the Wall of Fame 😎
 
 Do you think the **Internet Computer** sounds too good to be true? Let me prove you wrong! <br/>
-In a few minutes, you'll chat with me directly from the **Internet Computer** 🤯
-
-We'll use an application called **OpenChat**. <br/> **OpenChat** is a fully featured chat application running end-to-end on the **Internet Computer**. **OpenChat** is also the first application to be completely open source and controlled by a **DAO**, the OpenChat **DAO**. <br/>
+In a few minutes, you'll chat with me directly from the blockchain, showcasing the reality of this incredible technology. We'll use an application called **OpenChat**. <br/> **OpenChat** is a fully featured chat application running end-to-end on the **Internet Computer**. **OpenChat** is also the first application to be completely open source and controlled by a **DAO**, the OpenChat **DAO**. <br/>
 
 But.. to join the **Motoko Bootcamp** group, you'll first have to prove your worth and successfuly deploy your first application. <br/>
 
