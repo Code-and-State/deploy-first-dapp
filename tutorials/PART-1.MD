@@ -23,7 +23,7 @@ At its core, a canister consists of two key components: a WebAssembly module and
 - The WebAssembly module is a compiled piece of code written in languages like Rust or Motoko. This code is what gets installed in the canister and is responsible for executing the canister's functions.
 - WebAssembly memory, often referred to as memory pages, serves as the storage for the canister's state and various files, including photos, videos, files and arbitrary data.
 
-> So essentially a canister is Code + State. 😉
+> So essentially a canister is **Code + State.** 😉
 
 ## The Motoko language
 **Motoko** is a new language that was developed by the [DFINITY Foundation](https://dfinity.org/) to develop canisters. The **Motoko** language is a high-level language that is compiled to WebAssembly.

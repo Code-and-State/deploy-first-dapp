@@ -2,16 +2,18 @@
 
 > Welcome to **Motoko Bootcamp**. This is a guided tutorial to help you deploy your first application on the Internet Computer in 90 minutes. You don't need any prior setup or configuration to use this repository. A GitHub account and Internet connection will be enough.
 
-## Join me for a chat on the blockchain and get showcased on on the Wall of Fame 😎
+## Join me for a chat on the blockchain and get showcased on the Wall of Fame 😎
 
 Do you think the **Internet Computer** sounds too good to be true? Let me prove you wrong! <br/>
 In a few minutes, you'll chat with me directly from the blockchain, showcasing the reality of this incredible technology. We'll use an application called **OpenChat**. <br/> **OpenChat** is a fully featured chat application running end-to-end on the **Internet Computer**. **OpenChat** is also the first application to be completely open source and controlled by a **DAO**, the OpenChat **DAO**. <br/>
 
-But.. to hop into our exclusive **Motoko Bootcamp** group, you'll first have to accomplish your rite of passage and successfuly deploy your first application.
+But.. to hop into our exclusive **Motoko Bootcamp** group, you'll first have to accomplish your rite of passage and successfuly deploy your own first application.
 
 <p align="center"> <img src="./assets/home/chat_icp.png"  style="border: 1px solid black;"/> </p>
 
 Once you've showcased your skills, you'll have the opportunity to enter in the legend and let your marks on the **Wall Of Fame**. Ready to make history?
+
+> The Wall of Fame is also a live applicaiton deployed on the Internet Computer - you can access it at the following url: https://aki3l-syaaa-aaaaj-qa23q-cai.icp0.io/
 
 <p align="center"> <img src="./assets/home/wall_of_fame.png"  style="border: 1px solid black;"/> </p>
 
@@ -33,6 +35,8 @@ This repository contains a special tool called a **Dev Container**. This is a pr
 You can use this environment in two ways:
 
 - **Option 1 (Recommended):** Use the Dev Container in your browser. This is the easiest way to get started. You don't need to install anything. To do that, you need a **GitHub** account, make sure that you are logged in and click on **Code** - **Create Codespace**. This will takes 1-2 minutes before your coding environement is ready.
+
+> There seems to be issues with **Brave Browser** when using **Codespaces** - we recommend using **Chrome** or **Firefox** for a smoothest experience for the duration of this workshop.
 
 - **Option 2:** Use theDev Container on your computer. This option requires you to install Docker on your computer and takes more time. If you're interested, read this tutorial.
 
