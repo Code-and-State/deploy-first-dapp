@@ -101,5 +101,5 @@ The url to access the **Candid** interface for your canister is the following: `
 <p align="center"> <img src="./assets/part-1/candid_ui.png" style="border: 1px solid black;"/> </p>
 <p align="center"> The Candid UI can be used to call any public function of your canister</p>
 
-> Test calling `changeMessage` and `setMessage` and notice the difference in speed! 
+> Test calling `changeMessage` and `setMessage` and notice the difference in speed.
 
